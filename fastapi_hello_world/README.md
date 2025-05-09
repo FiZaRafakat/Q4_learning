@@ -24,3 +24,21 @@ For complete step-by-step instructions with detailed explanations, check out my 
 <br>
 
 **Happy coding! 🎉**
+
+
+Assalam-u-Alaikum 
+Respected Teachers : @Sir Ameen Alam Ameen Alam @Sir Ahsan Abbasi @~Ali Jawwad 
+
+I’ve successfully completed Task 2 – FastAPI hello world from the Q4 Learning Series. 🚀
+
+✅ Built a "Hello World" API with FastAPI
+✅ Added dynamic routes (greets users by name!)
+✅ Used UV for super-fast package management
+✅ Documented everything on GitHub & Medium
+
+You can review my work here:
+🔗 GitHub Repository: https://github.com/FiZaRafakat/Q4_learning/tree/main/fastapi_hello_world
+👉 Medium Blog : https://medium.com/@fizarafakat/build-your-first-fastapi-app-with-uv-a-beginners-guide-f152aab8b41a
+
+JazakAllah ⭐ 
+Regards : 🌸Fiza Rafakat🌸
