@@ -196,3 +196,27 @@ The @validator decorator lets you create your own validation rules beyond Pydant
 ![My Image](custom_validators_pic.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Chatbot Task
+✅ Completed chatbot implementation  
+📝 Will soon add detailed documentation including:
+- Step-by-step development process
+- Key learnings and insights
+- Beginner-friendly explanations
+
+*Note: This documentation is primarily for my learning process, but I hope it benefits others too.*
