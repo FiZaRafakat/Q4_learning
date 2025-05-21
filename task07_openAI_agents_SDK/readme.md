@@ -1,5 +1,3 @@
-# Task 06 
-
 # Task 06 – OpenAI Agents SDK
 
 Well, Task 06 is about answering the following questions:
@@ -20,7 +18,7 @@ But before answering these questions, we have to understand some key concepts.
 
 ## 📘 What I Covered in My Blog
 
-To build a solid foundation, here’s what I understood and covered in my blog in bullet points:
+To build a solid foundation, here’s what I understood and covered in my blog:
 
 - What the OpenAI Agents SDK is and what it enables
 - Key components: Agent, Runner, Tools, Handoffs, Guardrails, Tracing, and Streaming
